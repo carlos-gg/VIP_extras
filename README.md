@@ -21,6 +21,17 @@ This tutorial covers most of the things VIP can do, especially:
 - contrast curves, S/N maps
 
 
+### 02. Using HCIDataset objects
+
+> [GitHub](./tutorials/02_hcidataset.ipynb) / [nbviewer](http://nbviewer.jupyter.org/github/carlgogo/VIP_extras/blob/master/tutorials/02_hcidataset.ipynb)
+
+This tutorial shows how VIP's `HCIDataset` can be used for simple object-oriented access to all dataset related operations. It covers:
+
+- loading/saving datasets
+- simple operations (plotting, pre-processing, injecting)
+
+
+
 
 ## [Datasets](./datasets)
 
