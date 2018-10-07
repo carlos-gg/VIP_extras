@@ -1,5 +1,7 @@
 # VIP extras
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/r4lv/VIP_extras/patch-binder?filepath=binder%2Fwelcome.ipynb)
+
 > additional material for [VIP](https://github.com/vortex-exoplanet/VIP)
 
 
@@ -9,7 +11,7 @@ Tutorials in form of Jupyter notebooks can be found in the `tutorials/` folder. 
 
 ### 01. Main Tutorial
 
-> [GitHub](./tutorials/01_adi_pre-postproc_fluxpos_ccs.ipynb) / [nbviewer](http://nbviewer.jupyter.org/github/carlgogo/VIP_extras/blob/master/tutorials/01_adi_pre-postproc_fluxpos_ccs.ipynb)
+> [GitHub](./tutorials/01_adi_pre-postproc_fluxpos_ccs.ipynb) / [nbviewer](http://nbviewer.jupyter.org/github/carlgogo/VIP_extras/blob/master/tutorials/01_adi_pre-postproc_fluxpos_ccs.ipynb) / [binder](https://mybinder.org/v2/gh/r4lv/VIP_extras/patch-binder?filepath=tutorials%2F01_adi_pre-postproc_fluxpos_ccs.ipynb)
 
 This tutorial covers most of the things VIP can do, especially:
 
@@ -23,7 +25,7 @@ This tutorial covers most of the things VIP can do, especially:
 
 ### 02. Using HCIDataset objects
 
-> [GitHub](./tutorials/02_hcidataset.ipynb) / [nbviewer](http://nbviewer.jupyter.org/github/carlgogo/VIP_extras/blob/master/tutorials/02_hcidataset.ipynb)
+> [GitHub](./tutorials/02_hcidataset.ipynb) / [nbviewer](http://nbviewer.jupyter.org/github/carlgogo/VIP_extras/blob/master/tutorials/02_hcidataset.ipynb) / [binder](https://mybinder.org/v2/gh/r4lv/VIP_extras/patch-binder?filepath=tutorials%2F02_hcidataset.ipynb)
 
 This tutorial shows how VIP's `HCIDataset` can be used for simple object-oriented access to all dataset related operations. It covers:
 
